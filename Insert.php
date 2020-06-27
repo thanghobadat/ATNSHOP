@@ -18,6 +18,7 @@
             e.stopPropagation();
         });
     </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <head>
 
     <body>
@@ -35,7 +36,7 @@
             <!-- Collection of nav links, forms, and other content for toggling -->
             <div id="navbarCollapse" class="collapse navbar-collapse justify-content-start">
                 <ul class="nav navbar-nav">
-                    <li class="nav-item"><a href="F:\Assignment website\web\trangchu.html" class="nav-link">Home</a></li>
+                    <li class="nav-item"><a href="trangchu.html" class="nav-link">Home</a></li>
                     <li class="nav-item"><a href="#" class="nav-link">Introduce</a></li>			
                     <li class="nav-item dropdown">
                         <a data-toggle="dropdown" class="nav-link dropdown-toggle" href="#">Sale<b class="caret"></b></a>
